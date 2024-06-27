@@ -3,3 +3,4 @@ mysql:8.0.35
 bladex/sentinel-dashboard:1.8.6
 minio/minio:RELEASE.2021-04-22T15-44-28Z
 redis:5.0.8-alpine
+clickhouse/clickhouse-server:latest
